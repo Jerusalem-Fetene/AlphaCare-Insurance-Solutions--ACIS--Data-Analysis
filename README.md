@@ -39,15 +39,6 @@ Customer Demographics: Information on customer profiles and behavior.
 Policy Data: Details regarding insurance policies and their performance.
 
 ## Technologies Used
-- **Programming Language:** Python
-- **Libraries:**
-  -****Pandas****
-  -****NumPy****
-  -****Matplotlib****
-  -****Seaborn****
-  -****Scikit-learn****
-  -****Jupyter Notebook****
-- **Environment:** Anaconda or virtualenv (for Python package management)
 *Programming Language:** Python
 * Libraries
   * Pandas
@@ -55,8 +46,8 @@ Policy Data: Details regarding insurance policies and their performance.
   * Matplotlib
   * Seaborn
   * Scikit-learn
-  * Jupyter Notebook: Anaconda or virtualenv (for Python package management)
-- Environment
+  * Jupyter Notebook
+- Environment: Anaconda or virtualenv (for Python package management)
 - Item 4
   - Subitem 4.1
   - Subitem 4.2
