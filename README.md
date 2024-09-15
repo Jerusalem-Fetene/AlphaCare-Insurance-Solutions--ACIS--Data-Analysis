@@ -56,6 +56,20 @@ Claims Data: Historical claims data from the ACIS database.
 Customer Demographics: Information on customer profiles and behavior.
 Policy Data: Details regarding insurance policies and their performance.
 
+## Contributing
+For your invaluable contributions welcome, please! If you'd like to contribute to the ACIS Data Analysis Project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/YourFeature
+3. Commit your changes
+   ```bash
+   git commit -m "Add some feature"
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeature
+5. Open a Pull Request.
 ## Technologies Used
 * Programming Language: Python
 * Libraries
