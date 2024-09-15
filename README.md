@@ -65,7 +65,7 @@ Policy Data: Details regarding insurance policies and their performance.
   * Seaborn
   * Scikit-learn
   * Jupyter Notebook
-- Environment: Anaconda or virtualenv (for Python package management)
+- Environment: Anaconda or virtualenv (for Python package management) in my case winpython 3.12 (portable version of python IDE)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
