@@ -69,3 +69,5 @@ Policy Data: Details regarding insurance policies and their performance.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+## Contact
+For any inquiries or feedback, please reach out to us at jerusalem.sweng@gmail.com.
