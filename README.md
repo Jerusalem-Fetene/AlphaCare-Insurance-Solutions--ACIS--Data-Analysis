@@ -32,14 +32,32 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Jerusalem-Fetene/Week3.git
-
+2. Navigate to the project directory:
+    ```bash
+    cd acis-data-analysis
+3. Create a virtual environment (optional but recommended):
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+4. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+## Usage
+1. Data Preparation:
+   * Place your datasets in the data/ directory.
+2. Run Analysis:
+   * Execute the Jupyter notebooks in the notebooks/ directory to perform EDA and modeling:
+     ```bash
+     jupyter notebook
+3. Generate Reports:
+   * Use the reporting scripts in the reports/ directory to create visualizations and summaries.
 ## Data Sources
 Claims Data: Historical claims data from the ACIS database.
 Customer Demographics: Information on customer profiles and behavior.
 Policy Data: Details regarding insurance policies and their performance.
 
 ## Technologies Used
-*Programming Language:** Python
+*Programming Language: Python
 * Libraries
   * Pandas
   * NumPy
