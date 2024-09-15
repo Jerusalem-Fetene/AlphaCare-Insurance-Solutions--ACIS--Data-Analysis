@@ -41,12 +41,12 @@ Policy Data: Details regarding insurance policies and their performance.
 ## Technologies Used
 - **Programming Language:** Python
 - **Libraries:**
-  ****Pandas****
-  ****NumPy****
-  ****Matplotlib****
-****Seaborn****
-****Scikit-learn****
-****Jupyter Notebook****
+  -****Pandas****
+  -****NumPy****
+  -****Matplotlib****
+  -****Seaborn****
+  -****Scikit-learn****
+  -****Jupyter Notebook****
 - **Environment:** Anaconda or virtualenv (for Python package management)
 
 ## License
