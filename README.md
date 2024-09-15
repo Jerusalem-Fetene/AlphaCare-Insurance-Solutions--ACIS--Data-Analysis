@@ -1,5 +1,3 @@
-# Week-3
-10 Academy: Kifiya Artificial Intelligence Mastery Week 3 Challenge
 # AlphaCare Insurance Solutions (ACIS) Data Analysis Project
 
 Welcome to the AlphaCare Insurance Solutions (ACIS) Data Analysis Project repository! This project focuses on analyzing insurance data to derive insights that can improve business operations, enhance customer satisfaction, and optimize product offerings.
@@ -34,3 +32,17 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/acis-data-analysis.git
+   Data Sources
+Claims Data: Historical claims data from the ACIS database.
+Customer Demographics: Information on customer profiles and behavior.
+Policy Data: Details regarding insurance policies and their performance.
+Technologies Used
+Programming Language: Python
+Libraries:
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+Jupyter Notebook
+Environment: Anaconda or virtualenv (for Python package management)
