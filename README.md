@@ -31,7 +31,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/acis-data-analysis.git
+   git clone https://github.com/Jerusalem-Fetene/Week3.git
 
 ## Data Sources
 Claims Data: Historical claims data from the ACIS database.
@@ -39,14 +39,14 @@ Customer Demographics: Information on customer profiles and behavior.
 Policy Data: Details regarding insurance policies and their performance.
 
 ## Technologies Used
-- **Programming Language: Python
-- **Libraries:
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook
+- Programming Language: Python
+- Libraries:
+.Pandas
+.NumPy
+.Matplotlib
+.Seaborn
+.Scikit-learn
+.Jupyter Notebook
 - **Environment: Anaconda or virtualenv (for Python package management)
 
 ## License
