@@ -34,7 +34,7 @@ To set up the project locally, follow these steps:
    git clone https://github.com/Jerusalem-Fetene/Week3.git
 2. Navigate to the project directory:
     ```bash
-    cd acis-data-analysis
+    cd Week3
 3. Create a virtual environment (optional but recommended):
     ```bash
     python -m venv venv
@@ -57,7 +57,7 @@ Customer Demographics: Information on customer profiles and behavior.
 Policy Data: Details regarding insurance policies and their performance.
 
 ## Technologies Used
-*Programming Language: Python
+* Programming Language: Python
 * Libraries
   * Pandas
   * NumPy
@@ -66,9 +66,6 @@ Policy Data: Details regarding insurance policies and their performance.
   * Scikit-learn
   * Jupyter Notebook
 - Environment: Anaconda or virtualenv (for Python package management)
-- Item 4
-  - Subitem 4.1
-  - Subitem 4.2
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
