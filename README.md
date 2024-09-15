@@ -48,6 +48,18 @@ Policy Data: Details regarding insurance policies and their performance.
   -****Scikit-learn****
   -****Jupyter Notebook****
 - **Environment:** Anaconda or virtualenv (for Python package management)
+*Programming Language:** Python
+* Libraries
+  * Pandas
+  * NumPy
+  * Matplotlib
+  * Seaborn
+  * Scikit-learn
+  * Jupyter Notebook: Anaconda or virtualenv (for Python package management)
+- Environment
+- Item 4
+  - Subitem 4.1
+  - Subitem 4.2
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
