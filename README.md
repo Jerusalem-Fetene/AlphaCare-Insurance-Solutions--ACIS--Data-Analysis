@@ -32,17 +32,22 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/acis-data-analysis.git
-   Data Sources
+
+## Data Sources
 Claims Data: Historical claims data from the ACIS database.
 Customer Demographics: Information on customer profiles and behavior.
 Policy Data: Details regarding insurance policies and their performance.
-Technologies Used
-Programming Language: Python
-Libraries:
+
+## Technologies Used
+- **Programming Language: Python
+- **Libraries:
 Pandas
 NumPy
 Matplotlib
 Seaborn
 Scikit-learn
 Jupyter Notebook
-Environment: Anaconda or virtualenv (for Python package management)
+- **Environment: Anaconda or virtualenv (for Python package management)
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
